@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" alt="Matrix Rain" width="100%" height="160px" style="object-fit: cover;" />
+</p>
 
-<!--
-**AllyPts/AllyPts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Allyson+Pontes;Wake+up%2C+Neo...;Follow+the+white+rabbit...;Conectado+na+Matrix." alt="Typing Matrix" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllyPts&show_icons=true&bg_color=0D0208&title_color=00FF41&text_color=008F11&icon_color=00FF41&border_color=00FF41" alt="AllyPts Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyPts&layout=compact&bg_color=0D0208&title_color=00FF41&text_color=008F11&border_color=00FF41" alt="Top Langs" />
+</p>
