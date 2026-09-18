@@ -132,4 +132,15 @@
     <rect x="0" y="0" width="90" height="34" rx="5" fill="#000000" stroke="#00FF41" stroke-width="1.5" />
     <text x="45" y="21" text-anchor="middle" class="badge-label">SECURITY</text>
     <rect x="90" y="0" width="95" height="34" rx="5" fill="#00FF41" filter="url(#matrix-glow)" />
-    <text x="137
+    <text x="137" y="21" text-anchor="middle" class="badge-val">BYPASSED</text>
+  </g>
+
+  <!-- BADGE 3: USER / ALLYSON PONTES -->
+  <g transform="translate(565, 230)">
+    <rect x="0" y="0" width="65" height="34" rx="5" fill="#000000" stroke="#00FF41" stroke-width="1.5" />
+    <text x="32" y="21" text-anchor="middle" class="badge-label">USER</text>
+    <rect x="65" y="0" width="140" height="34" rx="5" fill="#00FF41" filter="url(#matrix-glow)" />
+    <text x="135" y="21" text-anchor="middle" class="badge-val">ALLYSON PONTES</text>
+  </g>
+
+</svg>
