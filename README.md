@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" alt="Matrix Rain" width="100%" height="160px" style="object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/krzysztofzuraw/matrix-rain/master/matrix.gif" alt="Matrix Rain" width="100%" height="180px" />
 </p>
 
 <p align="center">
@@ -8,7 +8,12 @@
 
 ---
 
+<h3 align="center">
+  <span style="color: #00FF41;">Terminal // System Status: Online</span>
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllyPts&show_icons=true&bg_color=0D0208&title_color=00FF41&text_color=008F11&icon_color=00FF41&border_color=00FF41" alt="AllyPts Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyPts&layout=compact&bg_color=0D0208&title_color=00FF41&text_color=008F11&border_color=00FF41" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/STATUS-OPERACIONAL-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SECURITY-BYPASSED-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/USER-ALLYSON_PONTES-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
